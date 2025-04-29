@@ -45,6 +45,4 @@ func main() {
         if err != nil {
             log.Println("Failed to send:", err)
             return // exit if fail
-        }
-    }
-}
+        }}}
